@@ -1,0 +1,15 @@
+# Project exclude paths
+/graphtraversal/target/
+/httpclient-1226/target/
+/out/
+/play/target/
+/servlet-01/target/
+/sping-03-ioc2/target/
+/spring-02-hello/target/
+/spring-ioc/target/
+/spring-jdbc/target/
+/spring_ioc_anno/target/
+/spring_mvc/target/
+/springmvc-02/target/
+/target/
+/testweb/target/

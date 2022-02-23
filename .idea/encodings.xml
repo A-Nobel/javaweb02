@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/graphtraversal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/graphtraversal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/httpclient-1226/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/httpclient-1226/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/play/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/play/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sping-03-ioc2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sping-03-ioc2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-02-hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-02-hello/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-ioc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-ioc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-test1224/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-test1224/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_ioc_anno/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_ioc_anno/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_mvc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-02-hellomvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-02-hellomvc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testweb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testweb/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

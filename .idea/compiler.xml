@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="httpclient-1226" />
+        <module name="play" />
+        <module name="spring-test" />
+        <module name="spring-ioc" />
+        <module name="spring-02-hello" />
+        <module name="spring_ioc_anno" />
+        <module name="springmvc-02" />
+        <module name="spring-jdbc" />
+        <module name="testweb" />
+        <module name="spring_mvc" />
+        <module name="servlet-01" />
+        <module name="sping-03-ioc2" />
+        <module name="graphtraversal" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-02-hellospring" target="17" />
+      <module name="spring-test1224" target="17" />
+      <module name="springmvc-02-hellomvc" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
